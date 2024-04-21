@@ -4,6 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"AllDesktop"
+		"WindowsNoEditor"
 	]
 }
